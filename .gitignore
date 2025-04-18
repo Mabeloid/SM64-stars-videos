@@ -1,0 +1,12 @@
+*
+!*/
+!.gitignore
+
+!figuringoutwhere/**
+!font/**
+!courses/**
+
+!rendervideo.py
+!figureoutwhere.py
+!readme.md
+!requirements.txt

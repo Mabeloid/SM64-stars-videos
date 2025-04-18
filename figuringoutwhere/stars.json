@@ -1,0 +1,358 @@
+{
+  "big bob-omb on the summit": [
+    1,
+    1
+  ],
+  "footrace with koopa the quick": [
+    1,
+    2
+  ],
+  "shoot to the island in the sky": [
+    1,
+    3
+  ],
+  "find the 8 red coins": [
+    1,
+    4
+  ],
+  "mario wings to the sky": [
+    1,
+    5
+  ],
+  "behind chain chomp’s gate": [
+    1,
+    6
+  ],
+  "chip off whomp’s block": [
+    2,
+    1
+  ],
+  "to the top of the fortress": [
+    2,
+    2
+  ],
+  "shoot into the wild blue": [
+    2,
+    3
+  ],
+  "red coins on the floating isle": [
+    2,
+    4
+  ],
+  "fall onto the caged island": [
+    2,
+    5
+  ],
+  "blast away the wall": [
+    2,
+    6
+  ],
+  "plunder in the sunken ship": [
+    3,
+    1
+  ],
+  "can the eel come out and play?": [
+    3,
+    2
+  ],
+  "treasure of the ocean cave": [
+    3,
+    3
+  ],
+  "red coins on the ship afloat": [
+    3,
+    4
+  ],
+  "blast to the stone pillar": [
+    3,
+    5
+  ],
+  "through the jet stream": [
+    9,
+    4
+  ],
+  "slip slidin’ away": [
+    4,
+    1
+  ],
+  "li’l penguin lost": [
+    4,
+    2
+  ],
+  "big penguin race": [
+    4,
+    3
+  ],
+  "frosty slide for 8 red coins": [
+    4,
+    4
+  ],
+  "snowman’s lost his head": [
+    4,
+    5
+  ],
+  "wall kicks will work": [
+    4,
+    6
+  ],
+  "go on a ghost hunt": [
+    5,
+    1
+  ],
+  "ride big boo’s merry-go-round": [
+    5,
+    2
+  ],
+  "secret of the haunted books": [
+    5,
+    3
+  ],
+  "seek the 8 red coins": [
+    5,
+    4
+  ],
+  "big boo’s balcony": [
+    5,
+    5
+  ],
+  "eye to eye in the secret room": [
+    5,
+    6
+  ],
+  "swimming beast in the cavern": [
+    6,
+    1
+  ],
+  "elevate for 8 red coins": [
+    6,
+    2
+  ],
+  "metal-head mario can move!": [
+    6,
+    3
+  ],
+  "navigating the toxic maze": [
+    6,
+    4
+  ],
+  "a-maze-ing emergency exit": [
+    6,
+    5
+  ],
+  "watch for the rolling rocks": [
+    6,
+    6
+  ],
+  "boil the big bully": [
+    7,
+    1
+  ],
+  "bully the bullies": [
+    7,
+    2
+  ],
+  "8-coin puzzle with 15 pieces": [
+    7,
+    3
+  ],
+  "red-hot log rolling": [
+    7,
+    4
+  ],
+  "hot-foot-it into the volcano": [
+    7,
+    5
+  ],
+  "elevator tour in the volcano": [
+    7,
+    6
+  ],
+  "in the talons of the big bird": [
+    8,
+    1
+  ],
+  "shining atop the pyramid": [
+    8,
+    2
+  ],
+  "inside the ancient pyramid": [
+    8,
+    3
+  ],
+  "stand tall on the four pillars": [
+    8,
+    4
+  ],
+  "free flying for 8 red coins": [
+    8,
+    5
+  ],
+  "pyramid puzzle": [
+    8,
+    6
+  ],
+  "board bowser’s sub": [
+    9,
+    1
+  ],
+  "chests in the current": [
+    9,
+    2
+  ],
+  "pole-jumping for red coins": [
+    9,
+    3
+  ],
+  "the manta ray’s reward": [
+    9,
+    5
+  ],
+  "collect the caps": [
+    9,
+    6
+  ],
+  "snowman’s big head": [
+    10,
+    1
+  ],
+  "chill with the bully": [
+    10,
+    2
+  ],
+  "in the deep freeze": [
+    10,
+    3
+  ],
+  "whirl from the freezing pond": [
+    10,
+    4
+  ],
+  "shell shreddin’ for 8 red coins": [
+    10,
+    5
+  ],
+  "into the igloo": [
+    10,
+    6
+  ],
+  "shocking arrow lifts!": [
+    11,
+    1
+  ],
+  "top o’ the town": [
+    11,
+    2
+  ],
+  "secrets in the shallows & sky": [
+    11,
+    3
+  ],
+  "express elevators–hurry up!": [
+    11,
+    4
+  ],
+  "go to town for red coins": [
+    11,
+    5
+  ],
+  "quick race through downtown": [
+    11,
+    6
+  ],
+  "scale the mountain": [
+    12,
+    1
+  ],
+  "mystery of the monkey cage": [
+    12,
+    2
+  ],
+  "scary ‘shrooms, red coins": [
+    12,
+    3
+  ],
+  "mysterious mountainside": [
+    12,
+    4
+  ],
+  "breathtaking view from bridge": [
+    12,
+    5
+  ],
+  "blast to the lonely mushroom": [
+    12,
+    6
+  ],
+  "pluck the piranha flower": [
+    13,
+    1
+  ],
+  "the tip top of the huge island": [
+    13,
+    2
+  ],
+  "rematch with koopa the quick": [
+    13,
+    3
+  ],
+  "five itty bitty secrets": [
+    13,
+    4
+  ],
+  "wiggler’s red coins": [
+    13,
+    5
+  ],
+  "make wiggler squirm": [
+    13,
+    6
+  ],
+  "roll into the cage": [
+    14,
+    1
+  ],
+  "the pit and the pendulums": [
+    14,
+    2
+  ],
+  "get a hand": [
+    14,
+    3
+  ],
+  "stomp on the thwomp": [
+    14,
+    4
+  ],
+  "timed jumps on moving bars": [
+    14,
+    5
+  ],
+  "stop time for red coins": [
+    14,
+    6
+  ],
+  "cruiser crossing the rainbow": [
+    15,
+    1
+  ],
+  "the big house in the sky": [
+    15,
+    2
+  ],
+  "coins amassed in a maze": [
+    15,
+    3
+  ],
+  "swingin’ in the breeze": [
+    15,
+    4
+  ],
+  "tricky triangles!": [
+    15,
+    5
+  ],
+  "somewhere over the rainbow": [
+    15,
+    6
+  ]
+}
