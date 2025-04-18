@@ -8,5 +8,6 @@
 
 !rendervideo.py
 !figureoutwhere.py
-!readme.md
+!README.md
+node_modules/**
 !requirements.txt
