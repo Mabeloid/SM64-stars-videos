@@ -29,6 +29,12 @@ while the font supports a lot of characters, it doesn't include, say, emojis or 
 
 this is supposed to handle edge cases even if you don't know what you're doing, so if you encounter an issue that's quote-on-quote "my fault" and it's not mentioned here, do let me know
 
+# how do i use it in my web browser
+
+log into GitHub, click this button, then click "Create codespace"
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Mabeloid/SM64-stars-videos)
+
 # how does it decide which star to use
 
 if the name of a course is in the text, it will use that and a random star
