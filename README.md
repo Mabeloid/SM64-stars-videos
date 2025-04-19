@@ -6,6 +6,10 @@ the python program that generates the videos for [my funny mario 64 star select 
 
 you need to have ffmpeg and python installed, then you should run `pip install -r requirements.txt` to make sure the external python libraries are installed
 
+or to use it in your web browser, log into GitHub, click this button, then click "Create codespace"
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Mabeloid/SM64-stars-videos)
+
 # how do i use it
 
 you run the command line
