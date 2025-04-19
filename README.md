@@ -6,6 +6,10 @@ the python program that generates the videos for [my funny mario 64 star select 
 
 you need to have ffmpeg and python installed, then you should run `pip install -r requirements.txt` to make sure the external python libraries are installed
 
+or to use it in your web browser, log into GitHub, click this button, then click "Create codespace"
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Mabeloid/SM64-stars-videos)
+
 # how do i use it
 
 you run the command line
@@ -28,12 +32,6 @@ you can also use `-c` and/or `-s` before the text to override the automatically 
 while the font supports a lot of characters, it doesn't include, say, emojis or egyptian hieroglyphics. these will appear as blurry boxes and it's not worth it to do anything about that
 
 this is supposed to handle edge cases even if you don't know what you're doing, so if you encounter an issue that's quote-on-quote "my fault" and it's not mentioned here, do let me know
-
-# how do i use it in my web browser
-
-log into GitHub, click this button, then click "Create codespace"
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Mabeloid/SM64-stars-videos)
 
 # how does it decide which star to use
 
